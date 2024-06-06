@@ -1,8 +1,36 @@
 {
-  "dependencies": {
-    "axios": "^1.7.2"
+  "name": "App_Task_Master",
+  "version": "1.0.0",
+  "description": "Your project description",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
-  "devDependencies": {
-    "gh-pages": "^6.1.1"
+  "homepage": "http://Kmmadu.github.io/App_Task_Master",
+  "dependencies": {
+    "gh-pages": "^6.1.1",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "^3.0.1",
+    "web-vitals": "^4.0.1"
+  },
+  "author": "Mmadubugwu Kingsley",
+  "license": "ISC",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
