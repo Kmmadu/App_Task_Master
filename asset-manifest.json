@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/App_Task_Master/static/css/main.435d5fe5.chunk.css",
+    "main.js": "/App_Task_Master/static/js/main.26948cee.chunk.js",
+    "main.js.map": "/App_Task_Master/static/js/main.26948cee.chunk.js.map",
+    "runtime~main.js": "/App_Task_Master/static/js/runtime~main.e1750512.js",
+    "runtime~main.js.map": "/App_Task_Master/static/js/runtime~main.e1750512.js.map",
+    "static/js/2.fd5371a8.chunk.js": "/App_Task_Master/static/js/2.fd5371a8.chunk.js",
+    "static/js/2.fd5371a8.chunk.js.map": "/App_Task_Master/static/js/2.fd5371a8.chunk.js.map",
+    "static/js/3.c8abb739.chunk.js": "/App_Task_Master/static/js/3.c8abb739.chunk.js",
+    "static/js/3.c8abb739.chunk.js.map": "/App_Task_Master/static/js/3.c8abb739.chunk.js.map",
+    "index.html": "/App_Task_Master/index.html",
+    "precache-manifest.9a2957827ebd234777fb353f8275a317.js": "/App_Task_Master/precache-manifest.9a2957827ebd234777fb353f8275a317.js",
+    "service-worker.js": "/App_Task_Master/service-worker.js",
+    "static/css/main.435d5fe5.chunk.css.map": "/App_Task_Master/static/css/main.435d5fe5.chunk.css.map",
+    "static/media/logo.svg": "/App_Task_Master/static/media/logo.06e73328.svg"
+  }
+}
