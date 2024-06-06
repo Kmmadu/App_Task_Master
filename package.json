@@ -1,8 +1,8 @@
 {
   "name": "App_Task_Master",
   "version": "1.0.0",
-  "description": "Your project description",
-  "main": "index.js",
+  "description": "Task Master App",
+  "main": "index.html",
   "scripts": {
     "start": "node server.js",
     "build": "react-scripts build",
